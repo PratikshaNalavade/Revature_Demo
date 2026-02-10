@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\bin\Debug\net9.0\polymorphismDemo.exe
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\bin\Debug\net9.0\polymorphismDemo.deps.json
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\bin\Debug\net9.0\polymorphismDemo.runtimeconfig.json
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\bin\Debug\net9.0\polymorphismDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\bin\Debug\net9.0\polymorphismDemo.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\polymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\polymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\polymorphismDemo.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\polymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\polymorphismDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\refint\polymorphismDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\polymorphismDemo.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\polymorphismDemo.genruntimeconfig.cache
+C:\Users\Admin\Downloads\cmder\code\Day_5\polymorphismDemo\obj\Debug\net9.0\ref\polymorphismDemo.dll

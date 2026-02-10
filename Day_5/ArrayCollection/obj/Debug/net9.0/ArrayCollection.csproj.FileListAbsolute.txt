@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\bin\Debug\net9.0\ArrayCollection.exe
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\bin\Debug\net9.0\ArrayCollection.deps.json
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\bin\Debug\net9.0\ArrayCollection.runtimeconfig.json
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\bin\Debug\net9.0\ArrayCollection.dll
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\bin\Debug\net9.0\ArrayCollection.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\ArrayCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\ArrayCollection.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\ArrayCollection.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\ArrayCollection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\ArrayCollection.dll
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\refint\ArrayCollection.dll
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\ArrayCollection.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\ArrayCollection.genruntimeconfig.cache
+C:\Users\Admin\Downloads\cmder\code\Day_5\ArrayCollection\obj\Debug\net9.0\ref\ArrayCollection.dll

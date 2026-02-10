@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\bin\Debug\net9.0\DelegateGeneric.exe
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\bin\Debug\net9.0\DelegateGeneric.deps.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\bin\Debug\net9.0\DelegateGeneric.runtimeconfig.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\bin\Debug\net9.0\DelegateGeneric.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\bin\Debug\net9.0\DelegateGeneric.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\DelegateGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\DelegateGeneric.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\DelegateGeneric.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\DelegateGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\DelegateGeneric.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\refint\DelegateGeneric.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\DelegateGeneric.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\DelegateGeneric.genruntimeconfig.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\DelegateGeneric\obj\Debug\net9.0\ref\DelegateGeneric.dll
