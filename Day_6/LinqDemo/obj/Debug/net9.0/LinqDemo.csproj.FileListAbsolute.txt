@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\bin\Debug\net9.0\LinqDemo.exe
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\bin\Debug\net9.0\LinqDemo.deps.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\bin\Debug\net9.0\LinqDemo.runtimeconfig.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\bin\Debug\net9.0\LinqDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\bin\Debug\net9.0\LinqDemo.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\LinqDemo.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\LinqDemo.sourcelink.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\LinqDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\refint\LinqDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\LinqDemo.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\LinqDemo.genruntimeconfig.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\LinqDemo\obj\Debug\net9.0\ref\LinqDemo.dll

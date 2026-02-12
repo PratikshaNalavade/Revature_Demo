@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\bin\Debug\net9.0\EventHandlerDemo.exe
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\bin\Debug\net9.0\EventHandlerDemo.deps.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\bin\Debug\net9.0\EventHandlerDemo.runtimeconfig.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\bin\Debug\net9.0\EventHandlerDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\bin\Debug\net9.0\EventHandlerDemo.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\EventHandlerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\EventHandlerDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\EventHandlerDemo.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\EventHandlerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\EventHandlerDemo.sourcelink.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\EventHandlerDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\refint\EventHandlerDemo.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\EventHandlerDemo.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\EventHandlerDemo.genruntimeconfig.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\EventHandlerDemo\obj\Debug\net9.0\ref\EventHandlerDemo.dll

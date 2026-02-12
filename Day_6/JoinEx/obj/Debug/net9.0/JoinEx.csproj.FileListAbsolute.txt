@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\bin\Debug\net9.0\JoinEx.exe
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\bin\Debug\net9.0\JoinEx.deps.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\bin\Debug\net9.0\JoinEx.runtimeconfig.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\bin\Debug\net9.0\JoinEx.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\bin\Debug\net9.0\JoinEx.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\JoinEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\JoinEx.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\JoinEx.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\JoinEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\JoinEx.sourcelink.json
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\JoinEx.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\refint\JoinEx.dll
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\JoinEx.pdb
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\JoinEx.genruntimeconfig.cache
+C:\Users\Admin\Downloads\cmder\code\Day_6\JoinEx\obj\Debug\net9.0\ref\JoinEx.dll
